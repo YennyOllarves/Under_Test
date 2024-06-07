@@ -29,3 +29,12 @@ console.log(mascota_gato);
 
 mascota_gato = "Rodolfo"
 console.log(mascota_gato);
+
+// git init // Inicializamos git en nuestro proyecto
+// git remote add <url> // Conectamos git - github
+// git chekcout -b <nombre_rama>
+// git add . // Agrear al stage todos los archivos 
+// git add prueba.js // Agrear al stage el archivo nombre_archivo
+// git commit -m "Subiendo el archivo prueba.js al repositorio"  // ingresamos la descripcion del comit"
+// git push origin <nombre_rama> // subir los cambios a git github
+// git pull origin <nombre_rama> // traer los cambios de git github a mi entorno local
